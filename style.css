@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}       
+
+
+
+h1{
+    font-family: "Playwrite NO", cursive;
+    color: darkblue;
+    text-align: center;
+    padding-top: 20px;
+}
+img{
+    margin-left: 200px;
+    border-radius: 5px;
+}
+div{
+    margin-top: 50%;
+}
